@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @baterdene-dev
-- 👀 I’m interested in Mobile development
-- 🌱 I’m currently learning GO and DART
